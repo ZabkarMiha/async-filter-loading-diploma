@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://xmlns.jcp.org/jsf/html">
+
+    <script src="#{request.contextPath}/resources/js/webcomponents/filterDisplayComponent.js" type="module"></script>
+    <script src="#{request.contextPath}/resources/js/webcomponents/filterGroupDisplayComponent.js"
+            type="module"></script>
+
+    <h:form id="filterForm">
+        <h:commandButton value="Render Facets" type="button" onclick="toggleFragment()"/>
+
+        <div id="fragment" style="display: none;">
+            <ui:repeat value="#{filterGroupsList}" var="filterGroup">
+                <filter-group-display-component title="#{filterGroup.name}">
+                    <div slot="content">
+                        <ui:repeat value="#{filterGroup.facets}" var="facet">
+                            <filter-display-component title="#{facet.text}"></filter-display-component>
+                        </ui:repeat>
+                    </div>
+                </filter-group-display-component>
+            </ui:repeat>
+        </div>
+    </h:form>
+
+    <script>
+        function toggleFragment() {
+            var fragment = document.getElementById('fragment');
+            // Toggle visibility of the fragment
+            if (fragment.style.display === 'none') {
+                fragment.style.display = 'block';
+            } else {
+                fragment.style.display = 'none';
+            }
+        }
+    </script>
+</ui:composition>

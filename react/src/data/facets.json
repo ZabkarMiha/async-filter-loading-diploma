@@ -1,0 +1,2198 @@
+{
+    "error": null,
+    "value": {
+        "query": {
+            "command": "*",
+            "maxHits": 10,
+            "sortField": null,
+            "materialType": "allmaterials",
+            "searchFacets": null,
+            "personalRelevance": 0,
+            "start": 0,
+            "databases": [],
+            "depAcronyms": null,
+            "publicationYearStart": null,
+            "publicationYearEnd": null,
+            "discoveryAuthenticated": false,
+            "openAccess": false,
+            "publicationDateRange": null,
+            "publicationDateStart": null,
+            "publicationDateEnd": null,
+            "dateModifiedRange": null,
+            "discoveryHoldingsOnly": false,
+            "facets": true,
+            "discoverySearch": false,
+            "pageNumber": 1
+        },
+        "error": null,
+        "facetGroups": [
+            {
+                "name": "žanri e-gradiv COBISS Ela",
+                "facets": [
+                    {
+                        "text": "",
+                        "value": "",
+                        "id": "gnf",
+                        "frequency": 27
+                    },
+                    {
+                        "text": "roman",
+                        "value": "roman",
+                        "id": "gnf",
+                        "frequency": 13
+                    },
+                    {
+                        "text": "dram",
+                        "value": "dram",
+                        "id": "gnf",
+                        "frequency": 5
+                    },
+                    {
+                        "text": "biog",
+                        "value": "biog",
+                        "id": "gnf",
+                        "frequency": 4
+                    },
+                    {
+                        "text": "ant",
+                        "value": "ant",
+                        "id": "gnf",
+                        "frequency": 3
+                    },
+                    {
+                        "text": "poto",
+                        "value": "poto",
+                        "id": "gnf",
+                        "frequency": 2
+                    },
+                    {
+                        "text": "druz",
+                        "value": "druz",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "duho",
+                        "value": "duho",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "esej",
+                        "value": "esej",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "klas",
+                        "value": "klas",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "mlad",
+                        "value": "mlad",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "prir",
+                        "value": "prir",
+                        "id": "gnf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "zgod",
+                        "value": "zgod",
+                        "id": "gnf",
+                        "frequency": 1
+                    }
+                ],
+                "id": "gnf"
+            },
+            {
+                "name": "ponudnik e-gradiv",
+                "facets": [
+                    {
+                        "text": "audibook",
+                        "value": "audibook",
+                        "id": "prf",
+                        "frequency": 386
+                    },
+                    {
+                        "text": "cobiss ela",
+                        "value": "cobiss ela",
+                        "id": "prf",
+                        "frequency": 72
+                    },
+                    {
+                        "text": "cobiss_ela",
+                        "value": "cobiss_ela",
+                        "id": "prf",
+                        "frequency": 3
+                    },
+                    {
+                        "text": "filmoteka",
+                        "value": "filmoteka",
+                        "id": "prf",
+                        "frequency": 3
+                    },
+                    {
+                        "text": "quantox",
+                        "value": "quantox",
+                        "id": "prf",
+                        "frequency": 3
+                    }
+                ],
+                "id": "prf"
+            },
+            {
+                "name": "online",
+                "facets": [
+                    {
+                        "text": "online",
+                        "value": "online",
+                        "id": "onf",
+                        "frequency": 1712842
+                    }
+                ],
+                "id": "onf"
+            },
+            {
+                "name": "vrsta vsebine",
+                "facets": [
+                    {
+                        "text": "diplomsko delo",
+                        "value": "105b-m5",
+                        "id": "cof",
+                        "frequency": 331864
+                    },
+                    {
+                        "text": "zbornik",
+                        "value": "105b-z",
+                        "id": "cof",
+                        "frequency": 200231
+                    },
+                    {
+                        "text": "roman",
+                        "value": "105f-a",
+                        "id": "cof",
+                        "frequency": 152981
+                    },
+                    {
+                        "text": "priročnik",
+                        "value": "105b-v",
+                        "id": "cof",
+                        "frequency": 135547
+                    },
+                    {
+                        "text": "učbenik",
+                        "value": "105b-j",
+                        "id": "cof",
+                        "frequency": 124392
+                    },
+                    {
+                        "text": "katalog",
+                        "value": "105b-b",
+                        "id": "cof",
+                        "frequency": 70736
+                    },
+                    {
+                        "text": "kratka proza",
+                        "value": "105f-f",
+                        "id": "cof",
+                        "frequency": 63978
+                    },
+                    {
+                        "text": "družbeni",
+                        "value": "105f-a_a1",
+                        "id": "cof",
+                        "frequency": 62153
+                    },
+                    {
+                        "text": "magistrsko delo",
+                        "value": "105b-m2",
+                        "id": "cof",
+                        "frequency": 61521
+                    },
+                    {
+                        "text": "raziskovalno poročilo",
+                        "value": "105b-r",
+                        "id": "cof",
+                        "frequency": 58624
+                    },
+                    {
+                        "text": "poezija",
+                        "value": "105f-g",
+                        "id": "cof",
+                        "frequency": 46186
+                    },
+                    {
+                        "text": "doktorsko delo",
+                        "value": "105b-m",
+                        "id": "cof",
+                        "frequency": 38235
+                    },
+                    {
+                        "text": "drugi",
+                        "value": "105f-a_a",
+                        "id": "cof",
+                        "frequency": 36571
+                    },
+                    {
+                        "text": "slikanica",
+                        "value": "105b-x2",
+                        "id": "cof",
+                        "frequency": 35079
+                    },
+                    {
+                        "text": "separat",
+                        "value": "105b-8",
+                        "id": "cof",
+                        "frequency": 31606
+                    },
+                    {
+                        "text": "vodič",
+                        "value": "105b-v1",
+                        "id": "cof",
+                        "frequency": 28989
+                    },
+                    {
+                        "text": "pravljice",
+                        "value": "105f-f1",
+                        "id": "cof",
+                        "frequency": 25129
+                    },
+                    {
+                        "text": "raziskovalna naloga",
+                        "value": "105b-p3",
+                        "id": "cof",
+                        "frequency": 23558
+                    },
+                    {
+                        "text": "strokovno delo",
+                        "value": "105b-r4",
+                        "id": "cof",
+                        "frequency": 23502
+                    },
+                    {
+                        "text": "kriminalni",
+                        "value": "105f-a_a4",
+                        "id": "cof",
+                        "frequency": 22159
+                    },
+                    {
+                        "text": "antikvarno gradivo",
+                        "value": "antig",
+                        "id": "cof",
+                        "frequency": 20839
+                    },
+                    {
+                        "text": "tehnično poročilo",
+                        "value": "105b-p",
+                        "id": "cof",
+                        "frequency": 18371
+                    },
+                    {
+                        "text": "razne literarne vrste",
+                        "value": "105f-z",
+                        "id": "cof",
+                        "frequency": 18216
+                    },
+                    {
+                        "text": "slovar",
+                        "value": "105b-e",
+                        "id": "cof",
+                        "frequency": 18210
+                    },
+                    {
+                        "text": "drama",
+                        "value": "105f-b",
+                        "id": "cof",
+                        "frequency": 18071
+                    },
+                    {
+                        "text": "biografija",
+                        "value": "105g-a",
+                        "id": "cof",
+                        "frequency": 17427
+                    },
+                    {
+                        "text": "enciklopedija, leksikon",
+                        "value": "105b-f",
+                        "id": "cof",
+                        "frequency": 14095
+                    },
+                    {
+                        "text": "pregledna monografija",
+                        "value": "105b-r1",
+                        "id": "cof",
+                        "frequency": 11538
+                    },
+                    {
+                        "text": "zakonodaja",
+                        "value": "105b-n",
+                        "id": "cof",
+                        "frequency": 10664
+                    },
+                    {
+                        "text": "znanstvenofantastični",
+                        "value": "105f-a_a6",
+                        "id": "cof",
+                        "frequency": 10143
+                    },
+                    {
+                        "text": "zgodovinski, vojni",
+                        "value": "105f-a_a3",
+                        "id": "cof",
+                        "frequency": 10015
+                    },
+                    {
+                        "text": "delovni zvezek",
+                        "value": "105b-jd",
+                        "id": "cof",
+                        "frequency": 9953
+                    },
+                    {
+                        "text": "spomini",
+                        "value": "105f-i1",
+                        "id": "cof",
+                        "frequency": 9155
+                    },
+                    {
+                        "text": "statistični pregled",
+                        "value": "105b-i",
+                        "id": "cof",
+                        "frequency": 7957
+                    },
+                    {
+                        "text": "znanstvena monografija",
+                        "value": "105b-r2",
+                        "id": "cof",
+                        "frequency": 7667
+                    },
+                    {
+                        "text": "esej",
+                        "value": "105f-c",
+                        "id": "cof",
+                        "frequency": 7248
+                    },
+                    {
+                        "text": "biografski",
+                        "value": "105f-a_a5",
+                        "id": "cof",
+                        "frequency": 7214
+                    },
+                    {
+                        "text": "strip",
+                        "value": "105b-x1",
+                        "id": "cof",
+                        "frequency": 7106
+                    },
+                    {
+                        "text": "standard",
+                        "value": "105b-l",
+                        "id": "cof",
+                        "frequency": 6553
+                    },
+                    {
+                        "text": "zaključna naloga",
+                        "value": "105b-mb12",
+                        "id": "cof",
+                        "frequency": 6235
+                    },
+                    {
+                        "text": "antologija",
+                        "value": "105f-g2",
+                        "id": "cof",
+                        "frequency": 5933
+                    },
+                    {
+                        "text": "specialistično delo",
+                        "value": "105b-m3",
+                        "id": "cof",
+                        "frequency": 5668
+                    },
+                    {
+                        "text": "humor",
+                        "value": "105f-d",
+                        "id": "cof",
+                        "frequency": 5210
+                    },
+                    {
+                        "text": "pustolovski",
+                        "value": "105f-a_a2",
+                        "id": "cof",
+                        "frequency": 4726
+                    },
+                    {
+                        "text": "izpitno gradivo",
+                        "value": "105b-q",
+                        "id": "cof",
+                        "frequency": 4497
+                    },
+                    {
+                        "text": "delo diplomskega seminarja",
+                        "value": "105b-mb14",
+                        "id": "cof",
+                        "frequency": 4006
+                    },
+                    {
+                        "text": "letopis",
+                        "value": "105b-h",
+                        "id": "cof",
+                        "frequency": 3324
+                    },
+                    {
+                        "text": "potopis",
+                        "value": "105f-i2",
+                        "id": "cof",
+                        "frequency": 3008
+                    },
+                    {
+                        "text": "ljudsko slovstvo",
+                        "value": "105f-x",
+                        "id": "cof",
+                        "frequency": 2906
+                    },
+                    {
+                        "text": "patent",
+                        "value": "105b-k",
+                        "id": "cof",
+                        "frequency": 2821
+                    }
+                ],
+                "id": "cof"
+            },
+            {
+                "name": "tipologija dokumentov/del",
+                "facets": [
+                    {
+                        "text": "diplomsko delo",
+                        "value": "2.11",
+                        "id": "tdf",
+                        "frequency": 275185
+                    },
+                    {
+                        "text": "izvirni znanstveni članek",
+                        "value": "1.01",
+                        "id": "tdf",
+                        "frequency": 188486
+                    },
+                    {
+                        "text": "strokovni članek",
+                        "value": "1.04",
+                        "id": "tdf",
+                        "frequency": 168171
+                    },
+                    {
+                        "text": "objavljeni povzetek znanstvenega prispevka na konferenci",
+                        "value": "1.12",
+                        "id": "tdf",
+                        "frequency": 128248
+                    },
+                    {
+                        "text": "objavljeni znanstveni prispevek na konferenci",
+                        "value": "1.08",
+                        "id": "tdf",
+                        "frequency": 127918
+                    },
+                    {
+                        "text": "drugi sestavni deli",
+                        "value": "1.25",
+                        "id": "tdf",
+                        "frequency": 102688
+                    },
+                    {
+                        "text": "poljudni članek",
+                        "value": "1.05",
+                        "id": "tdf",
+                        "frequency": 87841
+                    },
+                    {
+                        "text": "objavljeni strokovni prispevek na konferenci",
+                        "value": "1.09",
+                        "id": "tdf",
+                        "frequency": 66670
+                    },
+                    {
+                        "text": "magistrsko delo",
+                        "value": "2.09",
+                        "id": "tdf",
+                        "frequency": 57673
+                    },
+                    {
+                        "text": "končno poročilo o rezultatih raziskav",
+                        "value": "2.12",
+                        "id": "tdf",
+                        "frequency": 55235
+                    },
+                    {
+                        "text": "recenzija, prikaz knjige, kritika",
+                        "value": "1.19",
+                        "id": "tdf",
+                        "frequency": 54653
+                    },
+                    {
+                        "text": "elaborat, predštudija, študija",
+                        "value": "2.13",
+                        "id": "tdf",
+                        "frequency": 51422
+                    },
+                    {
+                        "text": "samostojni znanstveni sestavek ali poglavje v monografski publikaciji",
+                        "value": "1.16",
+                        "id": "tdf",
+                        "frequency": 48796
+                    },
+                    {
+                        "text": "druge monografije in druga zaključena dela",
+                        "value": "2.25",
+                        "id": "tdf",
+                        "frequency": 44779
+                    },
+                    {
+                        "text": "samostojni strokovni sestavek ali poglavje v monografski publikaciji",
+                        "value": "1.17",
+                        "id": "tdf",
+                        "frequency": 42574
+                    },
+                    {
+                        "text": "intervju",
+                        "value": "1.22",
+                        "id": "tdf",
+                        "frequency": 36739
+                    },
+                    {
+                        "text": "pregledni znanstveni članek",
+                        "value": "1.02",
+                        "id": "tdf",
+                        "frequency": 25610
+                    },
+                    {
+                        "text": "drugo učno gradivo",
+                        "value": "2.05",
+                        "id": "tdf",
+                        "frequency": 25494
+                    },
+                    {
+                        "text": "znanstvena monografija",
+                        "value": "2.01",
+                        "id": "tdf",
+                        "frequency": 24622
+                    },
+                    {
+                        "text": "objavljeni povzetek strokovnega prispevka na konferenci",
+                        "value": "1.13",
+                        "id": "tdf",
+                        "frequency": 22112
+                    },
+                    {
+                        "text": "predgovor, uvodnik, spremna beseda",
+                        "value": "1.20",
+                        "id": "tdf",
+                        "frequency": 18672
+                    },
+                    {
+                        "text": "doktorska disertacija",
+                        "value": "2.08",
+                        "id": "tdf",
+                        "frequency": 18559
+                    },
+                    {
+                        "text": "zbornik recenziranih znanstvenih prispevkov na mednarodni ali tuji konferenci",
+                        "value": "2.31",
+                        "id": "tdf",
+                        "frequency": 17066
+                    },
+                    {
+                        "text": "strokovna monografija",
+                        "value": "2.02",
+                        "id": "tdf",
+                        "frequency": 16862
+                    },
+                    {
+                        "text": "strokovni sestavek v slovarju, enciklopediji ali leksikonu",
+                        "value": "1.18",
+                        "id": "tdf",
+                        "frequency": 14953
+                    }
+                ],
+                "id": "tdf"
+            },
+            {
+                "name": "jezik",
+                "facets": [
+                    {
+                        "text": "slovenski",
+                        "value": "slv",
+                        "id": "laf",
+                        "frequency": 2580574
+                    },
+                    {
+                        "text": "angleški",
+                        "value": "eng",
+                        "id": "laf",
+                        "frequency": 2515680
+                    },
+                    {
+                        "text": "nemški",
+                        "value": "ger",
+                        "id": "laf",
+                        "frequency": 502755
+                    },
+                    {
+                        "text": "srbski",
+                        "value": "srp",
+                        "id": "laf",
+                        "frequency": 247154
+                    },
+                    {
+                        "text": "hrvaški",
+                        "value": "hrv",
+                        "id": "laf",
+                        "frequency": 204286
+                    },
+                    {
+                        "text": "francoski",
+                        "value": "fre",
+                        "id": "laf",
+                        "frequency": 171175
+                    },
+                    {
+                        "text": "italijanski",
+                        "value": "ita",
+                        "id": "laf",
+                        "frequency": 169943
+                    },
+                    {
+                        "text": "ruski",
+                        "value": "rus",
+                        "id": "laf",
+                        "frequency": 63088
+                    },
+                    {
+                        "text": "madžarski",
+                        "value": "hun",
+                        "id": "laf",
+                        "frequency": 60317
+                    },
+                    {
+                        "text": "latinski",
+                        "value": "lat",
+                        "id": "laf",
+                        "frequency": 42232
+                    },
+                    {
+                        "text": "španski",
+                        "value": "spa",
+                        "id": "laf",
+                        "frequency": 41063
+                    },
+                    {
+                        "text": "makedonski",
+                        "value": "mac",
+                        "id": "laf",
+                        "frequency": 28679
+                    },
+                    {
+                        "text": "češki",
+                        "value": "cze",
+                        "id": "laf",
+                        "frequency": 27200
+                    },
+                    {
+                        "text": "poljski",
+                        "value": "pol",
+                        "id": "laf",
+                        "frequency": 21991
+                    },
+                    {
+                        "text": "večjezični",
+                        "value": "mul",
+                        "id": "laf",
+                        "frequency": 17680
+                    },
+                    {
+                        "text": "brez jezikovne vsebine",
+                        "value": "zxx",
+                        "id": "laf",
+                        "frequency": 9809
+                    },
+                    {
+                        "text": "nizozemski",
+                        "value": "dut",
+                        "id": "laf",
+                        "frequency": 9564
+                    },
+                    {
+                        "text": "portugalski",
+                        "value": "por",
+                        "id": "laf",
+                        "frequency": 8813
+                    },
+                    {
+                        "text": "slovaški",
+                        "value": "slo",
+                        "id": "laf",
+                        "frequency": 7989
+                    },
+                    {
+                        "text": "bosanski",
+                        "value": "bos",
+                        "id": "laf",
+                        "frequency": 7201
+                    },
+                    {
+                        "text": "albanski",
+                        "value": "alb",
+                        "id": "laf",
+                        "frequency": 6753
+                    },
+                    {
+                        "text": "romunski",
+                        "value": "rum",
+                        "id": "laf",
+                        "frequency": 6083
+                    },
+                    {
+                        "text": "bolgarski",
+                        "value": "bul",
+                        "id": "laf",
+                        "frequency": 5424
+                    },
+                    {
+                        "text": "japonski",
+                        "value": "jpn",
+                        "id": "laf",
+                        "frequency": 4479
+                    },
+                    {
+                        "text": "švedski",
+                        "value": "swe",
+                        "id": "laf",
+                        "frequency": 4430
+                    },
+                    {
+                        "text": "kitajski",
+                        "value": "chi",
+                        "id": "laf",
+                        "frequency": 3951
+                    },
+                    {
+                        "text": "starogrški (-1453)",
+                        "value": "grc",
+                        "id": "laf",
+                        "frequency": 3704
+                    },
+                    {
+                        "text": "finski",
+                        "value": "fin",
+                        "id": "laf",
+                        "frequency": 3441
+                    },
+                    {
+                        "text": "turški",
+                        "value": "tur",
+                        "id": "laf",
+                        "frequency": 3126
+                    },
+                    {
+                        "text": "ukrajinski",
+                        "value": "ukr",
+                        "id": "laf",
+                        "frequency": 2875
+                    },
+                    {
+                        "text": "grški (moderni 1453-)",
+                        "value": "gre",
+                        "id": "laf",
+                        "frequency": 2426
+                    },
+                    {
+                        "text": "norveški",
+                        "value": "nor",
+                        "id": "laf",
+                        "frequency": 2151
+                    },
+                    {
+                        "text": "indonezijski",
+                        "value": "ind",
+                        "id": "laf",
+                        "frequency": 1769
+                    },
+                    {
+                        "text": "danski",
+                        "value": "dan",
+                        "id": "laf",
+                        "frequency": 1632
+                    },
+                    {
+                        "text": "arabski",
+                        "value": "ara",
+                        "id": "laf",
+                        "frequency": 1446
+                    },
+                    {
+                        "text": "katalonski",
+                        "value": "cat",
+                        "id": "laf",
+                        "frequency": 1434
+                    },
+                    {
+                        "text": "hebrejski",
+                        "value": "heb",
+                        "id": "laf",
+                        "frequency": 854
+                    },
+                    {
+                        "text": "neopredeljen",
+                        "value": "und",
+                        "id": "laf",
+                        "frequency": 787
+                    },
+                    {
+                        "text": "litovski",
+                        "value": "lit",
+                        "id": "laf",
+                        "frequency": 756
+                    },
+                    {
+                        "text": "korejski",
+                        "value": "kor",
+                        "id": "laf",
+                        "frequency": 688
+                    },
+                    {
+                        "text": "lužiškosrbski (ostali)",
+                        "value": "wen",
+                        "id": "laf",
+                        "frequency": 666
+                    },
+                    {
+                        "text": "beloruski",
+                        "value": "bel",
+                        "id": "laf",
+                        "frequency": 597
+                    },
+                    {
+                        "text": "novoperzijski",
+                        "value": "per",
+                        "id": "laf",
+                        "frequency": 555
+                    },
+                    {
+                        "text": "romski",
+                        "value": "rom",
+                        "id": "laf",
+                        "frequency": 544
+                    },
+                    {
+                        "text": "cerkvenoslovanski",
+                        "value": "chu",
+                        "id": "laf",
+                        "frequency": 541
+                    },
+                    {
+                        "text": "furlanski",
+                        "value": "fur",
+                        "id": "laf",
+                        "frequency": 481
+                    },
+                    {
+                        "text": "estonski",
+                        "value": "est",
+                        "id": "laf",
+                        "frequency": 375
+                    },
+                    {
+                        "text": "islandski",
+                        "value": "ice",
+                        "id": "laf",
+                        "frequency": 334
+                    },
+                    {
+                        "text": "srednjevisokonemški (ca. 1050-1500)",
+                        "value": "gmh",
+                        "id": "laf",
+                        "frequency": 325
+                    },
+                    {
+                        "text": "latvijski",
+                        "value": "lav",
+                        "id": "laf",
+                        "frequency": 301
+                    }
+                ],
+                "id": "laf"
+            },
+            {
+                "name": "pisava",
+                "facets": [
+                    {
+                        "text": "latinica",
+                        "value": "lat",
+                        "id": "scf",
+                        "frequency": 5296506
+                    },
+                    {
+                        "text": "cirilica",
+                        "value": "cir",
+                        "id": "scf",
+                        "frequency": 168022
+                    }
+                ],
+                "id": "scf"
+            },
+            {
+                "name": "ciljna skupina",
+                "facets": [
+                    {
+                        "text": "odrasli",
+                        "value": "odrasli",
+                        "id": "tgf",
+                        "frequency": 2228304
+                    },
+                    {
+                        "text": "otroci",
+                        "value": "otroci",
+                        "id": "tgf",
+                        "frequency": 137992
+                    },
+                    {
+                        "text": "mladina",
+                        "value": "mladina",
+                        "id": "tgf",
+                        "frequency": 19662
+                    }
+                ],
+                "id": "tgf"
+            },
+            {
+                "name": "avtor",
+                "facets": [
+                    {
+                        "text": "project muse",
+                        "value": "project muse",
+                        "id": "auf",
+                        "frequency": 26400
+                    },
+                    {
+                        "text": "centre traditio litterarum occidentalium",
+                        "value": "centre traditio litterarum occidentalium",
+                        "id": "auf",
+                        "frequency": 14659
+                    },
+                    {
+                        "text": "napast, igor",
+                        "value": "napast, igor",
+                        "id": "auf",
+                        "frequency": 4283
+                    },
+                    {
+                        "text": "bizjak, sašo, 1976-",
+                        "value": "bizjak, sašo, 1976-",
+                        "id": "auf",
+                        "frequency": 3921
+                    },
+                    {
+                        "text": "kanade, takeo",
+                        "value": "kanade, takeo",
+                        "id": "auf",
+                        "frequency": 3847
+                    },
+                    {
+                        "text": "detela, jasmina",
+                        "value": "detela, jasmina",
+                        "id": "auf",
+                        "frequency": 3836
+                    },
+                    {
+                        "text": "petelinšek, andrej, 1977-",
+                        "value": "petelinšek, andrej, 1977-",
+                        "id": "auf",
+                        "frequency": 3527
+                    },
+                    {
+                        "text": "goznik, majda",
+                        "value": "goznik, majda",
+                        "id": "auf",
+                        "frequency": 3461
+                    },
+                    {
+                        "text": "bezek-jakše, mirjam",
+                        "value": "bezek-jakše, mirjam",
+                        "id": "auf",
+                        "frequency": 3422
+                    },
+                    {
+                        "text": "pičerko peklar, slavica",
+                        "value": "pičerko peklar, slavica",
+                        "id": "auf",
+                        "frequency": 3256
+                    },
+                    {
+                        "text": "zavadlav, stana",
+                        "value": "zavadlav, stana",
+                        "id": "auf",
+                        "frequency": 3169
+                    },
+                    {
+                        "text": "goznik, črtomir",
+                        "value": "goznik, črtomir",
+                        "id": "auf",
+                        "frequency": 3039
+                    },
+                    {
+                        "text": "šajn, tomo",
+                        "value": "šajn, tomo",
+                        "id": "auf",
+                        "frequency": 2931
+                    },
+                    {
+                        "text": "šuligoj, boris",
+                        "value": "šuligoj, boris",
+                        "id": "auf",
+                        "frequency": 2611
+                    },
+                    {
+                        "text": "mozart, wolfgang amadeus",
+                        "value": "mozart, wolfgang amadeus",
+                        "id": "auf",
+                        "frequency": 2579
+                    },
+                    {
+                        "text": "united nations",
+                        "value": "united nations",
+                        "id": "auf",
+                        "frequency": 2500
+                    },
+                    {
+                        "text": "luzar, martin",
+                        "value": "luzar, martin",
+                        "id": "auf",
+                        "frequency": 2432
+                    },
+                    {
+                        "text": "various",
+                        "value": "various",
+                        "id": "auf",
+                        "frequency": 2421
+                    },
+                    {
+                        "text": "shakespeare, william, 1564-1616",
+                        "value": "shakespeare, william, 1564-1616",
+                        "id": "auf",
+                        "frequency": 2383
+                    },
+                    {
+                        "text": "vanovšek, marko",
+                        "value": "vanovšek, marko",
+                        "id": "auf",
+                        "frequency": 2304
+                    },
+                    {
+                        "text": "logar, janko, 1962-",
+                        "value": "logar, janko, 1962-",
+                        "id": "auf",
+                        "frequency": 2232
+                    },
+                    {
+                        "text": "lindič-dragaš, zdenka",
+                        "value": "lindič-dragaš, zdenka",
+                        "id": "auf",
+                        "frequency": 2178
+                    },
+                    {
+                        "text": "selan, igor",
+                        "value": "selan, igor",
+                        "id": "auf",
+                        "frequency": 2178
+                    },
+                    {
+                        "text": "grum, janez, 1946-",
+                        "value": "grum, janez, 1946-",
+                        "id": "auf",
+                        "frequency": 2170
+                    },
+                    {
+                        "text": "lesjak-tušek, petra",
+                        "value": "lesjak-tušek, petra",
+                        "id": "auf",
+                        "frequency": 2167
+                    },
+                    {
+                        "text": "rajkovič, vladislav",
+                        "value": "rajkovič, vladislav",
+                        "id": "auf",
+                        "frequency": 2148
+                    },
+                    {
+                        "text": "adamič, bojan, 1912-1995",
+                        "value": "adamič, bojan, 1912-1995",
+                        "id": "auf",
+                        "frequency": 2140
+                    },
+                    {
+                        "text": "podbrežnik, slavko",
+                        "value": "podbrežnik, slavko",
+                        "id": "auf",
+                        "frequency": 2132
+                    },
+                    {
+                        "text": "markelj, milan",
+                        "value": "markelj, milan",
+                        "id": "auf",
+                        "frequency": 2131
+                    },
+                    {
+                        "text": "regent, tadej",
+                        "value": "regent, tadej",
+                        "id": "auf",
+                        "frequency": 2124
+                    },
+                    {
+                        "text": "oecd",
+                        "value": "oecd",
+                        "id": "auf",
+                        "frequency": 2067
+                    },
+                    {
+                        "text": "markelj, lidija",
+                        "value": "markelj, lidija",
+                        "id": "auf",
+                        "frequency": 2020
+                    },
+                    {
+                        "text": "kajfež-bogataj, lučka",
+                        "value": "kajfež-bogataj, lučka",
+                        "id": "auf",
+                        "frequency": 1987
+                    },
+                    {
+                        "text": "bach, johann sebastian, 1685-1750",
+                        "value": "bach, johann sebastian, 1685-1750",
+                        "id": "auf",
+                        "frequency": 1980
+                    },
+                    {
+                        "text": "cehnar, jasmina",
+                        "value": "cehnar, jasmina",
+                        "id": "auf",
+                        "frequency": 1977
+                    },
+                    {
+                        "text": "vidmar, igor, 1963-",
+                        "value": "vidmar, igor, 1963-",
+                        "id": "auf",
+                        "frequency": 1961
+                    },
+                    {
+                        "text": "pezdir, slavko",
+                        "value": "pezdir, slavko",
+                        "id": "auf",
+                        "frequency": 1954
+                    },
+                    {
+                        "text": "mulej, matjaž",
+                        "value": "mulej, matjaž",
+                        "id": "auf",
+                        "frequency": 1930
+                    },
+                    {
+                        "text": "zlobec, marijan",
+                        "value": "zlobec, marijan",
+                        "id": "auf",
+                        "frequency": 1918
+                    },
+                    {
+                        "text": "petek, miro",
+                        "value": "petek, miro",
+                        "id": "auf",
+                        "frequency": 1908
+                    },
+                    {
+                        "text": "piano, brane",
+                        "value": "piano, brane",
+                        "id": "auf",
+                        "frequency": 1897
+                    },
+                    {
+                        "text": "forstnerič-hajnšek, melita",
+                        "value": "forstnerič-hajnšek, melita",
+                        "id": "auf",
+                        "frequency": 1885
+                    },
+                    {
+                        "text": "lukman žunec, darja",
+                        "value": "lukman žunec, darja",
+                        "id": "auf",
+                        "frequency": 1885
+                    },
+                    {
+                        "text": "kodrič, zdenko",
+                        "value": "kodrič, zdenko",
+                        "id": "auf",
+                        "frequency": 1880
+                    },
+                    {
+                        "text": "vrbnjak, tatjana",
+                        "value": "vrbnjak, tatjana",
+                        "id": "auf",
+                        "frequency": 1858
+                    },
+                    {
+                        "text": "likar, jakob",
+                        "value": "likar, jakob",
+                        "id": "auf",
+                        "frequency": 1852
+                    },
+                    {
+                        "text": "žižek, slavoj",
+                        "value": "žižek, slavoj",
+                        "id": "auf",
+                        "frequency": 1851
+                    },
+                    {
+                        "text": "hočevar, marko, 28.7.1962-",
+                        "value": "hočevar, marko, 28.7.1962-",
+                        "id": "auf",
+                        "frequency": 1843
+                    },
+                    {
+                        "text": "repe, božo",
+                        "value": "repe, božo",
+                        "id": "auf",
+                        "frequency": 1837
+                    },
+                    {
+                        "text": "premšak, marlen",
+                        "value": "premšak, marlen",
+                        "id": "auf",
+                        "frequency": 1829
+                    }
+                ],
+                "id": "auf"
+            },
+            {
+                "name": "leto izdaje",
+                "facets": [
+                    {
+                        "text": "0-9999",
+                        "value": "0-9999",
+                        "id": "pyf",
+                        "frequency": 1109
+                    },
+                    {
+                        "text": "1019-898?",
+                        "value": "1019-898?",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7002-2997",
+                        "value": "7002-2997",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7099-29??",
+                        "value": "7099-29??",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7398-2601",
+                        "value": "7398-2601",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7873-2126",
+                        "value": "7873-2126",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7896-2103",
+                        "value": "7896-2103",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7952-2047",
+                        "value": "7952-2047",
+                        "id": "pyf",
+                        "frequency": 1
+                    },
+                    {
+                        "text": "7974-2025",
+                        "value": "7974-2025",
+                        "id": "pyf",
+                        "frequency": 3
+                    },
+                    {
+                        "text": "7975-2024",
+                        "value": "7975-2024",
+                        "id": "pyf",
+                        "frequency": 70
+                    },
+                    {
+                        "text": "7976-2023",
+                        "value": "7976-2023",
+                        "id": "pyf",
+                        "frequency": 185
+                    },
+                    {
+                        "text": "7977-2022",
+                        "value": "7977-2022",
+                        "id": "pyf",
+                        "frequency": 571
+                    },
+                    {
+                        "text": "7978-2021",
+                        "value": "7978-2021",
+                        "id": "pyf",
+                        "frequency": 13464
+                    },
+                    {
+                        "text": "7979-2020",
+                        "value": "7979-2020",
+                        "id": "pyf",
+                        "frequency": 85191
+                    },
+                    {
+                        "text": "7979-202?",
+                        "value": "7979-202?",
+                        "id": "pyf",
+                        "frequency": 2
+                    },
+                    {
+                        "text": "7980-2019",
+                        "value": "7980-2019",
+                        "id": "pyf",
+                        "frequency": 109150
+                    },
+                    {
+                        "text": "7981-2018",
+                        "value": "7981-2018",
+                        "id": "pyf",
+                        "frequency": 113272
+                    },
+                    {
+                        "text": "7982-2017",
+                        "value": "7982-2017",
+                        "id": "pyf",
+                        "frequency": 117368
+                    },
+                    {
+                        "text": "7983-2016",
+                        "value": "7983-2016",
+                        "id": "pyf",
+                        "frequency": 133604
+                    },
+                    {
+                        "text": "7984-2015",
+                        "value": "7984-2015",
+                        "id": "pyf",
+                        "frequency": 121051
+                    },
+                    {
+                        "text": "7985-2014",
+                        "value": "7985-2014",
+                        "id": "pyf",
+                        "frequency": 123963
+                    },
+                    {
+                        "text": "7986-2013",
+                        "value": "7986-2013",
+                        "id": "pyf",
+                        "frequency": 128687
+                    },
+                    {
+                        "text": "7987-2012",
+                        "value": "7987-2012",
+                        "id": "pyf",
+                        "frequency": 140269
+                    },
+                    {
+                        "text": "7988-2011",
+                        "value": "7988-2011",
+                        "id": "pyf",
+                        "frequency": 145684
+                    },
+                    {
+                        "text": "7989-2010",
+                        "value": "7989-2010",
+                        "id": "pyf",
+                        "frequency": 150673
+                    },
+                    {
+                        "text": "7989-201?",
+                        "value": "7989-201?",
+                        "id": "pyf",
+                        "frequency": 399
+                    },
+                    {
+                        "text": "7990-2009",
+                        "value": "7990-2009",
+                        "id": "pyf",
+                        "frequency": 149314
+                    },
+                    {
+                        "text": "7991-2008",
+                        "value": "7991-2008",
+                        "id": "pyf",
+                        "frequency": 153836
+                    },
+                    {
+                        "text": "7992-2007",
+                        "value": "7992-2007",
+                        "id": "pyf",
+                        "frequency": 154161
+                    },
+                    {
+                        "text": "7993-2006",
+                        "value": "7993-2006",
+                        "id": "pyf",
+                        "frequency": 156981
+                    },
+                    {
+                        "text": "7994-2005",
+                        "value": "7994-2005",
+                        "id": "pyf",
+                        "frequency": 158268
+                    },
+                    {
+                        "text": "7995-2004",
+                        "value": "7995-2004",
+                        "id": "pyf",
+                        "frequency": 155013
+                    },
+                    {
+                        "text": "7996-2003",
+                        "value": "7996-2003",
+                        "id": "pyf",
+                        "frequency": 152578
+                    },
+                    {
+                        "text": "7997-2002",
+                        "value": "7997-2002",
+                        "id": "pyf",
+                        "frequency": 150752
+                    },
+                    {
+                        "text": "7998-2001",
+                        "value": "7998-2001",
+                        "id": "pyf",
+                        "frequency": 144174
+                    },
+                    {
+                        "text": "7999-2000",
+                        "value": "7999-2000",
+                        "id": "pyf",
+                        "frequency": 143704
+                    },
+                    {
+                        "text": "7999-200?",
+                        "value": "7999-200?",
+                        "id": "pyf",
+                        "frequency": 4292
+                    },
+                    {
+                        "text": "7999-20??",
+                        "value": "7999-20??",
+                        "id": "pyf",
+                        "frequency": 516
+                    },
+                    {
+                        "text": "7999-2???",
+                        "value": "7999-2???",
+                        "id": "pyf",
+                        "frequency": 14
+                    },
+                    {
+                        "text": "8000-1999",
+                        "value": "8000-1999",
+                        "id": "pyf",
+                        "frequency": 139595
+                    },
+                    {
+                        "text": "8001-1998",
+                        "value": "8001-1998",
+                        "id": "pyf",
+                        "frequency": 132867
+                    },
+                    {
+                        "text": "8002-1997",
+                        "value": "8002-1997",
+                        "id": "pyf",
+                        "frequency": 128003
+                    },
+                    {
+                        "text": "8003-1996",
+                        "value": "8003-1996",
+                        "id": "pyf",
+                        "frequency": 123263
+                    },
+                    {
+                        "text": "8004-1995",
+                        "value": "8004-1995",
+                        "id": "pyf",
+                        "frequency": 118736
+                    },
+                    {
+                        "text": "8005-1994",
+                        "value": "8005-1994",
+                        "id": "pyf",
+                        "frequency": 107741
+                    },
+                    {
+                        "text": "8006-1993",
+                        "value": "8006-1993",
+                        "id": "pyf",
+                        "frequency": 99314
+                    },
+                    {
+                        "text": "8007-1992",
+                        "value": "8007-1992",
+                        "id": "pyf",
+                        "frequency": 90354
+                    },
+                    {
+                        "text": "8008-1991",
+                        "value": "8008-1991",
+                        "id": "pyf",
+                        "frequency": 121496
+                    },
+                    {
+                        "text": "8009- 1990",
+                        "value": "8009- 1990",
+                        "id": "pyf",
+                        "frequency": 22
+                    },
+                    {
+                        "text": "8009-1990",
+                        "value": "8009-1990",
+                        "id": "pyf",
+                        "frequency": 126257
+                    }
+                ],
+                "id": "pyf"
+            },
+            {
+                "name": "predmet",
+                "facets": [
+                    {
+                        "text": "biografske študije, osebne in skupinske biografije ",
+                        "value": "92900",
+                        "id": "ucf",
+                        "frequency": 147251
+                    },
+                    {
+                        "text": "arhitektura, urejanje prostora, urbanizem",
+                        "value": "71000",
+                        "id": "ucf",
+                        "frequency": 96660
+                    },
+                    {
+                        "text": "slovenska književnost",
+                        "value": "16360",
+                        "id": "ucf",
+                        "frequency": 93185
+                    },
+                    {
+                        "text": "matematika",
+                        "value": "51000",
+                        "id": "ucf",
+                        "frequency": 90757
+                    },
+                    {
+                        "text": "krščanstvo",
+                        "value": "27000",
+                        "id": "ucf",
+                        "frequency": 90197
+                    },
+                    {
+                        "text": "računalništvo, računalniška znanost",
+                        "value": "68100",
+                        "id": "ucf",
+                        "frequency": 88591
+                    },
+                    {
+                        "text": "svetovna zgodovina, zgodovina antičnega sveta, zgodovina Evrope",
+                        "value": "94000",
+                        "id": "ucf",
+                        "frequency": 88229
+                    },
+                    {
+                        "text": "ekonomija, ekonomske vede",
+                        "value": "33000",
+                        "id": "ucf",
+                        "frequency": 88171
+                    },
+                    {
+                        "text": "fizika",
+                        "value": "53000",
+                        "id": "ucf",
+                        "frequency": 86310
+                    },
+                    {
+                        "text": "glasba ",
+                        "value": "78000",
+                        "id": "ucf",
+                        "frequency": 83600
+                    },
+                    {
+                        "text": "geografija",
+                        "value": "91000",
+                        "id": "ucf",
+                        "frequency": 80815
+                    },
+                    {
+                        "text": "zgodovina, arheologija",
+                        "value": "90200",
+                        "id": "ucf",
+                        "frequency": 80244
+                    },
+                    {
+                        "text": "biologija",
+                        "value": "56000",
+                        "id": "ucf",
+                        "frequency": 78891
+                    },
+                    {
+                        "text": "kemija",
+                        "value": "54000",
+                        "id": "ucf",
+                        "frequency": 77027
+                    },
+                    {
+                        "text": "angleška književnost, književnosti dežel Commonwealtha, Kanade, Avstralije ",
+                        "value": "82111",
+                        "id": "ucf",
+                        "frequency": 75822
+                    },
+                    {
+                        "text": "likovna umetnost, kiparstvo, risanje, oblikovanje, uporabna umetnost, grafična umetnost",
+                        "value": "73000",
+                        "id": "ucf",
+                        "frequency": 73290
+                    },
+                    {
+                        "text": "poslovni menedžment, administracija, knjigovodstvo",
+                        "value": "65700",
+                        "id": "ucf",
+                        "frequency": 72951
+                    },
+                    {
+                        "text": "elektrotehnika, elektronika, elektroenergetika, telekomunikacijska tehnika",
+                        "value": "62130",
+                        "id": "ucf",
+                        "frequency": 72632
+                    },
+                    {
+                        "text": "bibliotekarstvo,  bibliografije, standardizacija, standardi",
+                        "value": "00600",
+                        "id": "ucf",
+                        "frequency": 71880
+                    },
+                    {
+                        "text": "šport, športne igre, rekreacija",
+                        "value": "79600",
+                        "id": "ucf",
+                        "frequency": 69327
+                    },
+                    {
+                        "text": "politika, politične vede",
+                        "value": "32000",
+                        "id": "ucf",
+                        "frequency": 65889
+                    },
+                    {
+                        "text": "vzgoja in izobraževanje, šolstvo, pouk, padagogika",
+                        "value": "37000",
+                        "id": "ucf",
+                        "frequency": 65606
+                    },
+                    {
+                        "text": "sociologija",
+                        "value": "31600",
+                        "id": "ucf",
+                        "frequency": 63924
+                    },
+                    {
+                        "text": "kinematografija, film",
+                        "value": "79100",
+                        "id": "ucf",
+                        "frequency": 62013
+                    },
+                    {
+                        "text": "menedžment",
+                        "value": "00500",
+                        "id": "ucf",
+                        "frequency": 61892
+                    },
+                    {
+                        "text": "filozofija",
+                        "value": "10000",
+                        "id": "ucf",
+                        "frequency": 61379
+                    },
+                    {
+                        "text": "strojništvo, jedrska tehnika",
+                        "value": "62100",
+                        "id": "ucf",
+                        "frequency": 60151
+                    },
+                    {
+                        "text": "jezikoslovje, jeziki",
+                        "value": "80000",
+                        "id": "ucf",
+                        "frequency": 59832
+                    },
+                    {
+                        "text": "etnologija, etnografija, ljudska kultura, običaji, kulturna antropologija",
+                        "value": "39000",
+                        "id": "ucf",
+                        "frequency": 58619
+                    },
+                    {
+                        "text": "geologija, meteorologija, hidrologija",
+                        "value": "55000",
+                        "id": "ucf",
+                        "frequency": 57374
+                    },
+                    {
+                        "text": "javna uprava",
+                        "value": "35000",
+                        "id": "ucf",
+                        "frequency": 55933
+                    },
+                    {
+                        "text": "gradbeništvo, gradbena tehnika, hidrotehnika, oskrba z vodo, komunala",
+                        "value": "62400",
+                        "id": "ucf",
+                        "frequency": 55750
+                    },
+                    {
+                        "text": "umetnost",
+                        "value": "70000",
+                        "id": "ucf",
+                        "frequency": 54035
+                    },
+                    {
+                        "text": "gospodarstvo, gospodarska politika, gospodarski sistemi, gospodarske panoge",
+                        "value": "33400",
+                        "id": "ucf",
+                        "frequency": 53735
+                    },
+                    {
+                        "text": "psihologija",
+                        "value": "11300",
+                        "id": "ucf",
+                        "frequency": 53607
+                    },
+                    {
+                        "text": "ameriška književnost, indijanske književnosti",
+                        "value": "11117",
+                        "id": "ucf",
+                        "frequency": 52309
+                    },
+                    {
+                        "text": "nemška književnost (vključno avstrijska, švicarska, jidiš)",
+                        "value": "21122",
+                        "id": "ucf",
+                        "frequency": 52217
+                    },
+                    {
+                        "text": "vokalna glasba, opera, cerkvena glasba",
+                        "value": "78200",
+                        "id": "ucf",
+                        "frequency": 51527
+                    },
+                    {
+                        "text": "fotografija",
+                        "value": "77000",
+                        "id": "ucf",
+                        "frequency": 50809
+                    },
+                    {
+                        "text": "inženirstvo, tehnologija, biotehnologija",
+                        "value": "60200",
+                        "id": "ucf",
+                        "frequency": 50806
+                    },
+                    {
+                        "text": "medicina",
+                        "value": "61000",
+                        "id": "ucf",
+                        "frequency": 49522
+                    },
+                    {
+                        "text": "preučevanje področij, domoznanstvo",
+                        "value": "90800",
+                        "id": "ucf",
+                        "frequency": 48250
+                    },
+                    {
+                        "text": "javno zdravje, nezgode, prva pomoč, medicina dela, socialna medicina",
+                        "value": "61400",
+                        "id": "ucf",
+                        "frequency": 47521
+                    },
+                    {
+                        "text": "interna medicina",
+                        "value": "61610",
+                        "id": "ucf",
+                        "frequency": 46906
+                    },
+                    {
+                        "text": "civilno pravo, gospodarsko pravo",
+                        "value": "34600",
+                        "id": "ucf",
+                        "frequency": 46673
+                    },
+                    {
+                        "text": "slikarstvo",
+                        "value": "75000",
+                        "id": "ucf",
+                        "frequency": 46023
+                    },
+                    {
+                        "text": "književnost, literarne študije",
+                        "value": "82000",
+                        "id": "ucf",
+                        "frequency": 45159
+                    },
+                    {
+                        "text": "finance, davki, bančništvo",
+                        "value": "33600",
+                        "id": "ucf",
+                        "frequency": 44932
+                    },
+                    {
+                        "text": "organizacija vzgojnoizobraževalnih ustanov, izobražavalni sistemi",
+                        "value": "37091",
+                        "id": "ucf",
+                        "frequency": 42714
+                    },
+                    {
+                        "text": "ekologija, varstvo okolja, ogrožanje okolja",
+                        "value": "50200",
+                        "id": "ucf",
+                        "frequency": 41440
+                    }
+                ],
+                "id": "ucf"
+            },
+            {
+                "name": "vrsta gradiva",
+                "facets": [
+                    {
+                        "text": "knjiga",
+                        "value": "knj",
+                        "id": "tyf",
+                        "frequency": 2935212
+                    },
+                    {
+                        "text": "tiskana knjiga",
+                        "value": "knj_tskknj",
+                        "id": "tyf",
+                        "frequency": 2790818
+                    },
+                    {
+                        "text": "članek, sestavni del",
+                        "value": "cla",
+                        "id": "tyf",
+                        "frequency": 2086336
+                    },
+                    {
+                        "text": "tiskani članek",
+                        "value": "cla_tskcla",
+                        "id": "tyf",
+                        "frequency": 1950340
+                    },
+                    {
+                        "text": "časopis, revija",
+                        "value": "ser",
+                        "id": "tyf",
+                        "frequency": 155584
+                    },
+                    {
+                        "text": "e-članek",
+                        "value": "cla_ecla",
+                        "id": "tyf",
+                        "frequency": 119867
+                    },
+                    {
+                        "text": "tiskani časopis",
+                        "value": "ser_tskcas",
+                        "id": "tyf",
+                        "frequency": 119089
+                    },
+                    {
+                        "text": "e-knjiga",
+                        "value": "knj_eknj",
+                        "id": "tyf",
+                        "frequency": 112791
+                    },
+                    {
+                        "text": "glasba",
+                        "value": "gla",
+                        "id": "tyf",
+                        "frequency": 78433
+                    },
+                    {
+                        "text": "CD",
+                        "value": "gla_cd",
+                        "id": "tyf",
+                        "frequency": 67529
+                    },
+                    {
+                        "text": "slikovno gradivo",
+                        "value": "sgrad",
+                        "id": "tyf",
+                        "frequency": 60175
+                    },
+                    {
+                        "text": "notno gradivo",
+                        "value": "ngrad",
+                        "id": "tyf",
+                        "frequency": 58757
+                    },
+                    {
+                        "text": "videoposnetek, film",
+                        "value": "vid",
+                        "id": "tyf",
+                        "frequency": 46477
+                    },
+                    {
+                        "text": "e-časopis",
+                        "value": "ser_ecas",
+                        "id": "tyf",
+                        "frequency": 36241
+                    },
+                    {
+                        "text": "video DVD",
+                        "value": "vid_dvd",
+                        "id": "tyf",
+                        "frequency": 27313
+                    },
+                    {
+                        "text": "razglednica",
+                        "value": "sgrad_razg",
+                        "id": "tyf",
+                        "frequency": 24957
+                    },
+                    {
+                        "text": "kartografsko gradivo",
+                        "value": "kart",
+                        "id": "tyf",
+                        "frequency": 23109
+                    },
+                    {
+                        "text": "elektronski vir",
+                        "value": "evir",
+                        "id": "tyf",
+                        "frequency": 18523
+                    },
+                    {
+                        "text": "zemljevid",
+                        "value": "kart_zem",
+                        "id": "tyf",
+                        "frequency": 17447
+                    },
+                    {
+                        "text": "videokaseta",
+                        "value": "vid_vhs",
+                        "id": "tyf",
+                        "frequency": 13203
+                    },
+                    {
+                        "text": "plakat",
+                        "value": "sgrad_plak",
+                        "id": "tyf",
+                        "frequency": 11926
+                    },
+                    {
+                        "text": "igrača, predmet",
+                        "value": "igra",
+                        "id": "tyf",
+                        "frequency": 10509
+                    },
+                    {
+                        "text": "fotografija",
+                        "value": "sgrad_foto",
+                        "id": "tyf",
+                        "frequency": 9033
+                    },
+                    {
+                        "text": "online",
+                        "value": "evir_web",
+                        "id": "tyf",
+                        "frequency": 8390
+                    },
+                    {
+                        "text": "CD-ROM, DVD-ROM, USB ključ",
+                        "value": "evir_phy",
+                        "id": "tyf",
+                        "frequency": 8102
+                    },
+                    {
+                        "text": "igrača",
+                        "value": "igra_igra",
+                        "id": "tyf",
+                        "frequency": 7952
+                    },
+                    {
+                        "text": "umetna zbirka",
+                        "value": "umetzbi",
+                        "id": "tyf",
+                        "frequency": 7443
+                    },
+                    {
+                        "text": "zvočna knjiga",
+                        "value": "knj_zknj",
+                        "id": "tyf",
+                        "frequency": 6442
+                    },
+                    {
+                        "text": "zvočna knjiga",
+                        "value": "zknj",
+                        "id": "tyf",
+                        "frequency": 6442
+                    },
+                    {
+                        "text": "kaseta",
+                        "value": "gla_kas",
+                        "id": "tyf",
+                        "frequency": 4861
+                    },
+                    {
+                        "text": "večvrstno gradivo",
+                        "value": "vvgrad",
+                        "id": "tyf",
+                        "frequency": 3795
+                    },
+                    {
+                        "text": "e-video",
+                        "value": "vid_web",
+                        "id": "tyf",
+                        "frequency": 3575
+                    },
+                    {
+                        "text": "CD",
+                        "value": "zknj_cd",
+                        "id": "tyf",
+                        "frequency": 3554
+                    },
+                    {
+                        "text": "gramofonska plošča",
+                        "value": "gla_grampl",
+                        "id": "tyf",
+                        "frequency": 3391
+                    },
+                    {
+                        "text": "atlas",
+                        "value": "kart_atlas",
+                        "id": "tyf",
+                        "frequency": 2638
+                    },
+                    {
+                        "text": "predmet",
+                        "value": "igra_pred",
+                        "id": "tyf",
+                        "frequency": 2557
+                    },
+                    {
+                        "text": "zvočni posnetek",
+                        "value": "zpos",
+                        "id": "tyf",
+                        "frequency": 2529
+                    },
+                    {
+                        "text": "kaseta",
+                        "value": "zknj_kas",
+                        "id": "tyf",
+                        "frequency": 2089
+                    },
+                    {
+                        "text": "vizualno gradivo",
+                        "value": "vgrad",
+                        "id": "tyf",
+                        "frequency": 1733
+                    },
+                    {
+                        "text": "Braillova pisava",
+                        "value": "knj_brailp",
+                        "id": "tyf",
+                        "frequency": 1266
+                    },
+                    {
+                        "text": "Blu-ray",
+                        "value": "vid_bray",
+                        "id": "tyf",
+                        "frequency": 1124
+                    },
+                    {
+                        "text": "projicirno gradivo",
+                        "value": "pgrad",
+                        "id": "tyf",
+                        "frequency": 829
+                    },
+                    {
+                        "text": "videoposnetek",
+                        "value": "vid_pos",
+                        "id": "tyf",
+                        "frequency": 756
+                    },
+                    {
+                        "text": "film",
+                        "value": "vid_film",
+                        "id": "tyf",
+                        "frequency": 582
+                    },
+                    {
+                        "text": "mikrofiš",
+                        "value": "mikrof",
+                        "id": "tyf",
+                        "frequency": 551
+                    },
+                    {
+                        "text": "online",
+                        "value": "zknj_web",
+                        "id": "tyf",
+                        "frequency": 410
+                    },
+                    {
+                        "text": "online",
+                        "value": "zpos_web",
+                        "id": "tyf",
+                        "frequency": 319
+                    },
+                    {
+                        "text": "CD",
+                        "value": "zpos_cd",
+                        "id": "tyf",
+                        "frequency": 173
+                    },
+                    {
+                        "text": "online",
+                        "value": "kart_web",
+                        "id": "tyf",
+                        "frequency": 117
+                    },
+                    {
+                        "text": "gramofonska plošča",
+                        "value": "zknj_grampl",
+                        "id": "tyf",
+                        "frequency": 97
+                    }
+                ],
+                "id": "tyf"
+            }
+        ]
+    },
+    "status": "OK"
+}
