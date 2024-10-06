@@ -1,5 +1,5 @@
 export interface Root {
-    error: null | string; // Assuming it can be null or a string
+    error: null | string;
     value: Value;
     status: string;
 }

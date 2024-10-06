@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: '/src/main/webapp/resources/js/litcomponents/filter-display.js', // Replace this with the path to your main JS file
+    entry: '/src/main/webapp/resources/js/litcomponents/filter-display.js',
     output: {
         path: path.resolve(__dirname, 'src/main/webapp/resources/dist'),
         filename: 'bundle.js',
